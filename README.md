@@ -1,4 +1,4 @@
-# colorpicker_plus
+# ColorPicker+
 YMM4のカラーピッカーのUIを変更・追加するプラグイン
 ## 概要
 - カラーピッカーのUIを変更するプラグインです。
