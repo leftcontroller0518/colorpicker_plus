@@ -3,7 +3,8 @@ YMM4のカラーピッカーのUIを変更・追加するプラグイン
 ## 概要
 - カラーピッカーのUIを変更するプラグインです。
 - プラグインを導入すると添付画像のようにカラーピッカーがタブで切り替えられるようになります。
-<img width="533" height="358" alt="image" src="https://github.com/user-attachments/assets/f0bc41cf-f00f-4cb7-902f-71d94eb77b70" />
+<img width="430" height="297" alt="image" src="https://github.com/user-attachments/assets/2adccda4-f96e-4a6a-baeb-088008ee06d7" />
+
 
 - 現状あるのは標準、三角形、四角形です。
 - タブを切り替えてから閉じ、再度カラーピッカーを開いても最後に開いたカラーピッカーの状態が保持されます。
