@@ -20,9 +20,6 @@ YMM4のカラーピッカーのUIを変更・追加するプラグイン
 - バグについては私左コントローラーの[X(旧Twitter)のDM](https://x.com/aoihou0518)へどうぞ
 - 共同開発者である[イヤホン](https://github.com/panko200)へのバグ報告は負担になりますので必ず私にお願いいたします。
 
-## 予定中のアップデート
-- 背景色の（[てとら様](https://github.com/tetra-te)作の[カスタムテーマプラグイン](https://github.com/tetra-te/CustomThemePlugin)なども含め）テーマカラー対応
-
 ## changelog
 - 2026/08/05 β1.0.0 β版公開
 - 2026/08/07 1.0.0 機能の複数追加と微調整、バグ修正をして正式版公開
